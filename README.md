@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm a junior developer.  
-Currently learning C++, Java, Git, and Linux.
+Currently learning C++, Java, Git, and Linux. Planning to dive into Kotlin soon, and I have some experience with HTML and CSS.
 
 ## My skills:
 
