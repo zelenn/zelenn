@@ -39,10 +39,6 @@ I’m now focusing on improving my **C++**, **Java**, and **Git** skills, while 
 
 ---
 
-## Contact
-- **Telegram**: [@thezelenn](https://t.me/thezelenn)
-
----
 
 
 <!--
